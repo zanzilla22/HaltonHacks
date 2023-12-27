@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39cd48080a7e7b140bb52b8da5c50f30, type: 3}
+  m_Name: KillhouseMap
+  m_EditorClassIdentifier: 
+  MapName: Killhouse
+  MapImage: {fileID: 21300000, guid: e50006b8ca7846b4db76d52f8ef4a704, type: 3}
