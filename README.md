@@ -1,6 +1,6 @@
 ## Satellite Campus X HaltonHacks
 ![image](https://github.com/zanzilla22/HaltonHacks/assets/69683242/b89cb331-8aca-47e7-96da-3cfb7f966aff)
-Zane Beeai, Tony Pan
+\n_Zane Beeai, Tony Pan_
 
 # Inspiration
 ![image](https://github.com/zanzilla22/HaltonHacks/assets/69683242/b44526d6-3706-44e6-bd05-2d5619328ce1)
